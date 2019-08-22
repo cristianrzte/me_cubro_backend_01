@@ -16,3 +16,10 @@ La aplicación esta conectada a una base de datos MySql, donde se almacenan los 
 A partir de estos registros devuelva una estadística de cuántos casos encontraron el par de elementos.
 
 Por ejemplo: [total_ejecuciones: 100, casos_positivos: 80, ratio_positivos: 0.8]
+
+
+Desarrollada en Codeigniter Version 3.1.10
+
+Instalación 
+
+https://www.codeigniter.com/user_guide/installation/index.html
