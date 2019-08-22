@@ -6,7 +6,7 @@ Esta aplicación fue desarrollada para buscar un valor predefinido (X) en un arr
 
 Al encontrar los elementos correspondientes los devuelve, caso contrario devuelve False.
 
-Ej.
+Ej. de caso positivo :  
 Array = [3, 1, 9, 5, 22, 12, -12]
 x = 13
 Respuesta correcta 1 y 12
