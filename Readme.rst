@@ -2,7 +2,7 @@
 Me cubro - Backend 01
 ###################
 
-Esta aplicación fue desarrollada para buscar una valor predefinido (X) en un array con (N) cantidad de elementos.
+Esta aplicación fue desarrollada para buscar un valor predefinido (X) en un array con (N) cantidad de elementos.
 
 Al encontrar los elementos correspondientes los devuelve, caso contrario devuelve False.
 
