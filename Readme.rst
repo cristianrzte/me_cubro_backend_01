@@ -11,7 +11,7 @@ Array = [3, 1, 9, 5, 22, 12, -12]
 x = 13
 Respuesta correcta 1 y 12
 
-La aplicación esta conectada a una base de datos MySql, donde se almacenan los registros todas las ejecuciones.
+La aplicación esta conectada a una base de datos MySql, donde se almacenan los registros de todas las ejecuciones.
 
 A partir de estos registros devuelva una estadística de cuántos casos encontraron el par de elementos.
 
